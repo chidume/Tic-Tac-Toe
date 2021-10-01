@@ -96,9 +96,13 @@ class Game extends React.Component {
       const desc = move ? 'Go to move #' + move + this.location(step.latestEntry) :
                           'Go to game start';
 
-      return (
+      return(
         <li key={move}>
-          <button onClick={() => this.jumpTo(move)}>{desc}</button>
+          <button 
+            onClick={() => this.jumpTo(move)} 
+            className={this.state.stepNumber == move ? 'select' : ''}>
+              {desc}
+          </button>
         </li>
       );
     })
