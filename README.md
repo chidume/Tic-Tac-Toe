@@ -1,3 +1,13 @@
+# TIC-TAC-TOE
+A learning exercise using reactjs
+
+# Purpose
+The purpose of this project was to learn reactjs using the tutorial at [https://reactjs.org/tutorial/tutorial.html](https://reactjs.org/tutorial/tutorial.html).
+Furthermore, we've provided solutions to the optional exercises in [https://reactjs.org/tutorial/tutorial.html#wrapping-up](https://reactjs.org/tutorial/tutorial.html#wrapping-up)
+
+# Try out the finished version for yourself!
+[https://chidume.github.io/Tic-Tac-Toe/](https://chidume.github.io/Tic-Tac-Toe/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
